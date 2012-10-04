@@ -26,16 +26,16 @@ This updated license is released to the public domain.
 
 -------------------------------------
 
-(c) 2011 Company Name
+	(c) 2011 Company Name
 
-Permission is granted hereby,
-to copy, share, and modify.
- To use as is fit,
- free or for profit.
-These rights, on this notice, rely.
+	Permission is granted hereby,
+	to copy, share, and modify.
+	 To use as is fit,
+	 free or for profit.
+	These rights, on this notice, rely.
 
-This work ‘as-is’ we provide.
-Therefore all claims are defied.
- Denied is our liability,
- for damage, tort, or responsibility.
-No warranty express or implied.
+	This work ‘as-is’ we provide.
+	Therefore all claims are defied.
+	 Denied is our liability,
+	 for damage, tort, or responsibility.
+	No warranty express or implied.
