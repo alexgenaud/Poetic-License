@@ -16,8 +16,8 @@ free or for profit. These rights, none can deny!
 
 
 
-Latest Poetic License
-=====================
+Poetic License 2.0
+------------------
 
 © <YEAR> <NAME>
 
@@ -35,8 +35,8 @@ On this notice, these rights rely.
 
 
 
-Original Poetic License
-=======================
+Poetic License 1.0
+------------------
 
 (c) 2005 Alexander E Genaud
 
