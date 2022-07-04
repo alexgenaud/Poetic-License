@@ -1,45 +1,39 @@
 # Poetic License
 
-The [Poetic License](./LICENSE) is a permissive open source software license believed
-to be, in spirit if not legally and poetically, equivalent to the
+The [Poetic License](./LICENSE) is a permissive open source software license
+believed to be, in spirit and poetically, equivalent to the
 [ISC](./licenses/ISC_OpenBSD) and [MIT](./licenses/MIT0) Licenses.
-The notice is most similar to the ISC and somewhat to the Expat MIT License.
-The disclaimer is the intersection of various BSD, ISC, and MIT Licenses.
-NB: Denial of Merchantability and Tort is common to most of those prior license inspirations,
-but have regrettably not yet been translated to limerick.
+The notice is most similar to an ISC and Expat MIT License combination,
+followed by the intersection of various BSD, ISC, and MIT License disclaimers.
 
 
 
-    Poetic License                      //  OpenBSD (ISC), Expat, MIT License
-                                        //
-    (c) 2022 Alexander E Genaud         //  (c) [YEAR] [COPYRIGHT HOLDER]
-                                        //
-    Permission is granted hereby,       //  Permission to use, copy, modify, and (/or)
-    to copy, share, use, modify,        //  distribute this software for any purpose
-       for purposes any,                //  with or without fee is hereby granted,
-       free or for money,               //  provided that the above copyright notice and
-    provided these rhymes all multiply. //  this permission notice appear in all copies.
-                                        //
-    This work ‘as is’ I provide.        //  THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY
-    No warranty express or implied.     //  OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ...
-       For no purpose fit,              //  WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO
-       not even a wee bit.              //  EVENT SHALL THE AUTHOR BE LIABLE FOR ... DAMAGES
-    Liability for damages denied.       //  ... WHETHER IN AN ACTION OF CONTRACT, TORT, ...
-                                        //  IN CONNECTION WITH ... USE OF ... THE SOFTWARE.
+    Poetic License                   //  OpenBSD (ISC), Expat, MIT License
+                                     //
+    (c) 2022 Alexander E Genaud      //  (c) [YEAR] [COPYRIGHT HOLDER]
+                                     //
+    Permission is granted hereby,    //  Permission to use, copy, modify, and (/or)
+    to copy, share, use, modify,     //  distribute this software for any purpose
+       for purposes any,             //  with or without fee is hereby granted,
+       free or for penny,            //  provided that the above copyright notice and
+    provided these rhymes multiply.  //  this permission notice appear in all copies.
+                                     //
+    This work "as is" I provide,     //  THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY
+    no warranty express or implied,  //  OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ...
+       for, no purpose fit,          //  WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO
+       'tis unmerchantable shit.     //  EVENT SHALL THE AUTHOR BE LIABLE FOR ... DAMAGES
+    Liability for damages denied.    //  ... WHETHER IN AN ACTION OF CONTRACT, TORT, ...
+                                     //  IN CONNECTION WITH ... USE OF ... THE SOFTWARE.
 
 
 ## Poetic License Version History
 
-Grammar "as is" provided, no warranty express or "implieded".
+Grammar "as is" provided, without warranty, express or "implieded".
 
-### 2022 (version 2) "for purposes any, for free or money")
+### 2022 (version 2) "unmerchantable shit"
 
-Pros: Matches the pattern of the ISC notice closely.
-Maybe: Consider including innovations from Apache 2.0.
-Maybe: Avoids the and or and/or debate, for better or worse.
-Cons: Notice does not mention object: "use this thing, free or for bling"
-Cons: The poetic rhythm has reduced its original spring.
-Cons: Should deny merchantability and liability for tort.
+ - Pro: Matches the pattern of the ISC notice closely.
+ - Con: Vague object of notice: alt "use this thing, free or for bling"
 
 
     (c) 2022 Alexander E Genaud
@@ -47,20 +41,20 @@ Cons: Should deny merchantability and liability for tort.
     Permission is granted hereby,
     to copy, share, use, modify,
        for purposes any,
-       free or for money,
-    provided these rhymes all multiply.
+       free or for penny,
+    provided these rhymes multiply.
 
-    This work ‘as is’ I provide.
-    No warranty express or implied.
-       For no purpose fit,
-       not even a wee bit.
+    This work "as is" I provide,
+    no warranty express or implied,
+       for, no purpose fit,
+       'tis unmerchantable shit.
     Liability for damages denied.
 
 
 
 ### 2013 (version 1) "no purpose fit"
 
-Pros: This license version lowers expectations: "no purpose fit"
+ - Pro: Lowers expectations: "no purpose fit"
 
 
     (c) 2013 Alexander E Genaud
@@ -81,9 +75,8 @@ Pros: This license version lowers expectations: "no purpose fit"
 
 ### 2005 (version 0) "our best, to debug and test"
 
-Pros: The poetic rhythm is light and springy.
-Pros: Refers to 'work' early (not necessarily Software only)
-Cons: Over-promises "best, debug and test", implies usability and fitness.
+ - Pro: Refers to 'work' early and not software
+ - Con: "best, debug and test" may imply merchantability and fitness
 
 Original post: http://genaud.net/2005/10/poetic-license/
 
