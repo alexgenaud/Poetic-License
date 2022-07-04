@@ -3,7 +3,7 @@
 The [Poetic License](./LICENSE) is a permissive open source software license believed
 to be, in spirit, if not legally and poetically, equivalent to the [ISC](./licenses/ISC_OpenBSD) and the
 [MIT](./licenses/MIT0) Licenses. More specifically, the notice is most similar to the ISC
-and secondarily to the Expect MIT License. The disclaimer is the
+and secondarily to the Expat MIT License. The disclaimer is the
 intersection of various BSD, ISC, and Expat MIT Licenses. NB: Denial of Merchantability
 and Tort is common to those but (unfortunately) missing from the below license limerick.
 
