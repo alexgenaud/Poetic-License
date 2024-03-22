@@ -3,24 +3,24 @@
 Return to the [main page](./README.md).
 
 
-    (c) 2022 Alexander E Genaud      /////  OpenBSD (ISC) License  /////
-                                     //
-    Permission is granted hereby,    //  Permission to use, copy, modify, and (/or)
-    to copy, share, use, modify,     //  distribute this software for any purpose
-       for purposes any,             //  with or without fee is hereby granted,
-       for free or for money,        //  provided that the above copyright notice and
-    provided these rhymes catch eye. //  this permission notice appear in all copies.
+    (c) 2024 Alexander E Genaud        /////  OpenBSD (ISC) License  /////
+                                       //
+    Permission is granted hereby,      //  Permission to use, copy, modify, and (/or)
+    to copy, share, use, modify,       //  distribute this software for any purpose
+       for purposes any,               //  with or without fee is hereby granted,
+       for free or for money,          //  provided that the above copyright notice and
+    provided notices appear and edify. //  this permission notice appear in all copies.
 
 
-                                     /////  ISC, BSD, and MIT Disclaimers (mix)  /////
-                                     //
-    This work "as is" I provide,     //  THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY
-    no warranty express or implied,  //  OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ...
-       for, no purpose fit,          //  WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-       'tis unmerchantable shit.     //  A PARTICULAR PURPOSE ... IN NO EVENT SHALL THE
-    Liability for damages denied.    //  AUTHOR BE LIABLE FOR ANY ... DAMAGES ... WHETHER
-                                     //  IN AN ACTION OF CONTRACT, TORT, ... ARISING ...
-                                     //  IN CONNECTION WITH ... USE OF ... THE SOFTWARE.
+                                       /////  ISC, BSD, and MIT Disclaimers (mix)  /////
+                                       //
+    This work "as is" I provide,       //  THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY
+    no warranty express or implied,    //  OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ...
+       for, no purpose fit,            //  WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+       'tis unmerchantable shit.       //  A PARTICULAR PURPOSE ... IN NO EVENT SHALL THE
+    Liability for damages denied.      //  AUTHOR BE LIABLE FOR ANY ... DAMAGES ... WHETHER
+                                       //  IN AN ACTION OF CONTRACT, TORT, ... ARISING ...
+                                       //  IN CONNECTION WITH ... USE OF ... THE SOFTWARE.
 
 
                                               /////  Expat MIT License  /////
